@@ -20,7 +20,12 @@
 
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> {% unless include.excerpt %}
     <div class="markdown-body">
-
+        <!-- 블로그 상단 반응형 -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8005500753255035" data-ad-slot="9875601584" data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
         {% if post.header-img %}
         <div class="head-image"><img src="{{ site.url }}/{% if post.header-img %}assets/{{ post.header-img }}{% endif %}"
             /></div>
@@ -40,15 +45,7 @@
                 }
             }
         </style>
-        <!-- 블로그 상단 반응형 -->
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8005500753255035" data-ad-slot="9875601584" data-ad-format="auto"
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-
-        <br/> {{ post.content }}
-        <br/>
+        {{ post.content }}
         <br/>
         <!-- 블로그 하단 반응형 -->
         <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8005500753255035" data-ad-slot="7738614107" data-ad-format="auto"
