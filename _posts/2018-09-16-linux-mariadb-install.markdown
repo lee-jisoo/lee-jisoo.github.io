@@ -273,9 +273,6 @@ $ mysql_upgrade -u root -p
 
 
 ## 참고
-https://suwoni-codelab.com/linux/2017/05/24/Linux-CentOS-MariaDB/
+[리눅스(CentOS) 개발 놀이터 만들기 - MariaDB 설치](https://suwoni-codelab.com/linux/2017/05/24/Linux-CentOS-MariaDB/){: target="_blank" }
 
-https://zetawiki.com/wiki/CentOS7_MariaDB_%EC%84%A4%EC%B9%98
-
-http://yaruki0318.tistory.com/entry/MariaDB-%EC%84%A4%EC%B9%98-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95
-
+[MariaDB 설치 / 초기 설정](http://yaruki0318.tistory.com/entry/MariaDB-%EC%84%A4%EC%B9%98-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95){: target="_blank" }
