@@ -3,7 +3,7 @@ layout: post
 title: "리눅스(CentOS7.5)에서 MariaDB 설치"
 subtitle: "리눅스(CentOS7.5)에서 MariaDB를 설치하여 봅시다."
 categories: devlog
-tags: linux, database
+tags: linux database
 ---
 
 ## 리눅스 MariaDB 설치
