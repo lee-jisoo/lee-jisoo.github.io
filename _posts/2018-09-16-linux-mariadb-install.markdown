@@ -7,9 +7,7 @@ tags: linux database
 ---
 
 ## 리눅스 MariaDB 설치
-
 리눅스(CentOS7.5)에서 MariaDB를 설치하여 봅시다.
-
 Mariadb는 오라클에서 MySQL을 인수함에 따라 이에 대한 반발로 MySQL을 모태로 만들어진 DBMS 입니다.
 
 ## 설치환경
