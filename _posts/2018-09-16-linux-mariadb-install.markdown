@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "리눅스(CentOS7.5)에서 MariaDB 설치"
-subtitle: "리눅스(CentOS7.5)에서 MariaDB를 설치하여 봅시다."
+title: "Linux (CentOS7.5)에서 MariaDB 설치"
+subtitle: "Linux(CentOS7.5)에서 MariaDB를 설치하여 봅시다."
 categories: devlog
 tags: linux database
 ---
 
-## 리눅스 MariaDB 설치
-리눅스(CentOS7.5)에서 MariaDB를 설치하여 봅시다.
+## Linux MariaDB 설치
+Linux(CentOS7.5)에서 MariaDB를 설치하여 봅시다.
 Mariadb는 오라클에서 MySQL을 인수함에 따라 이에 대한 반발로 MySQL을 모태로 만들어진 DBMS 입니다.
 
 ## 설치환경
@@ -274,3 +274,4 @@ $ mysql_upgrade -u root -p
 [리눅스(CentOS) 개발 놀이터 만들기 - MariaDB 설치](https://suwoni-codelab.com/linux/2017/05/24/Linux-CentOS-MariaDB/){: target="_blank" }
 
 [MariaDB 설치 / 초기 설정](http://yaruki0318.tistory.com/entry/MariaDB-%EC%84%A4%EC%B9%98-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95){: target="_blank" }
+
