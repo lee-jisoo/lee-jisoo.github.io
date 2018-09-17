@@ -3,7 +3,7 @@ layout: post
 title: "Linux (CentOS7.5)에서 JDK 8 설치"
 subtitle: "Linux (CentOS7.5)에서 JDK 8을 설치하여 봅시다."
 categories: devlog
-tags: linux database
+tags: linux java
 ---
 
 # Linux (CentOS7.5)에서 JDK 8을 설치하여 봅시다.
