@@ -56,7 +56,7 @@ Job세팅으로 들어가 `빌드 후 조치` 항목에 `Post build task`를 선
 - Script : 입력된 스크립트를 실행합니다.
 
 ```sh
-curl -X POST -H 'Authorization: Bearer yousr_token_key' -F message="${JOB_NAME} 이 실패하였습니다." https://notify-api.line.me/api/notify
+$ curl -X POST -H 'Authorization: Bearer yousr_token_key' -F message="${JOB_NAME} 이 실패하였습니다." https://notify-api.line.me/api/notify
 ```
 
 실행결과 정상적으로 배치 실패시 알람톡이 전달되고 있습니다.
